@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lockDown
+namespace LockDown
 {
     class Program
     {
